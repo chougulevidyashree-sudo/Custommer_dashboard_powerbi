@@ -31,5 +31,6 @@ Connect to the dataset (or replace with your own).
 
 Explore the dashboard with filters and drill-downs.
 <img width="641" height="386" alt="image" src="https://github.com/user-attachments/assets/0fb401f7-b15b-4d7c-b045-d0a27f5656be" />
+https://github.com/chougulevidyashree-sudo/Custommer_dashboard_powerbi/blob/main/customer_dash_photo.png
 
 
